@@ -107,7 +107,7 @@ const About = () => {
                 About <span className="gradient-text">Me</span>
               </h2>
               <p className="text-lg text-dark-300 leading-relaxed mb-6">
-                I'm a passionate web developer with a keen eye for modern design and clean code. 
+                I&apos;m a passionate web developer with a keen eye for modern design and clean code. 
                 I specialize in creating beautiful, responsive websites that not only look great 
                 but also provide exceptional user experiences across all devices.
               </p>

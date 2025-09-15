@@ -139,8 +139,8 @@ ${formData.message}
             Get In <span className="gradient-text">Touch</span>
           </h2>
           <p className="text-lg text-dark-300 max-w-2xl mx-auto">
-            Ready to start your next project? Let's work together to create something amazing.
-            I'm always excited to discuss new opportunities and ideas.
+            Ready to start your next project? Let&apos;s work together to create something amazing.
+            I&apos;m always excited to discuss new opportunities and ideas.
           </p>
         </div>
 
@@ -148,11 +148,11 @@ ${formData.message}
           {/* Contact Information */}
           <div className="space-y-8">
             <div className="contact-item opacity-0">
-              <h3 className="text-2xl font-bold mb-6 gradient-text">Let's Connect</h3>
+              <h3 className="text-2xl font-bold mb-6 gradient-text">Let&apos;s Connect</h3>
               <p className="text-dark-300 mb-8">
-                I'm currently available for freelance work and full-time opportunities. 
-                Whether you have a project in mind or just want to chat about web development, 
-                I'd love to hear from you.
+                 I&apos;m currently available for freelance work and full-time opportunities. 
+                 Whether you have a project in mind or just want to chat about web development, 
+                 I&apos;d love to hear from you.
               </p>
             </div>
 
