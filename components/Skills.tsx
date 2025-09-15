@@ -62,7 +62,7 @@ const Skills = () => {
             setTimeout(() => {
               anime({
                 targets: '.skill-bar',
-                width: (el) => `${el.dataset.level}%`,
+                width: (el: any) => `${el.dataset.level}%`,
                 duration: 1500,
                 delay: anime.stagger(50),
                 easing: 'easeOutExpo',
